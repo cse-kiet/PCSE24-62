@@ -1,0 +1,24 @@
+How to Execute the code
+
+1-Download the source code from github repo
+
+2-Open code with Visual Studio
+
+3-you have to create the .env file
+
+4-You have to connect with Mongo db cluster and 
+MongoUri=MONGO_URI=mongodb+srv://<Username>:<Password>@cluster0.rncbsu6.mongodb.net/
+
+5-Then open the Terminal and type npm i
+and at local host project should be run 
+
+
+
+
+Project Requirement for Execution 
+
+1-You have a laptop with good confirguation 
+2-Download Visual Studio Code 
+3-Download Node in your System 
+then run the project 
+
